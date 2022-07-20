@@ -1,6 +1,6 @@
-name: 'clj-kondo checks'
+name: 'clj-kondo checks - pin version'
 description: 'Lint your clojure code with clj-kondo in parallel to your builds'
-author: 'DeLaGuardo'
+author: 'Nick and Alex'
 branding:
   icon: 'gift'
   color: 'blue'
